@@ -16,3 +16,11 @@ Este repositório contém aliases úteis para comandos do Terraform.
 ## Como usar
 
 Execute: . .\terraform-aliases.ps1
+
+
+
+## Agora você pode usar este repositório em qualquer projeto! Para usar em outros lugares, basta:
+
+git clone https://github.com/kcsdevops/alias-tf.git
+cd alias-tf
+. .\terraform-aliases.ps1
